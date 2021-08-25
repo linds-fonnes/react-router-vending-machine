@@ -1,0 +1,10 @@
+.Drink {
+  height: 90vh;
+  width: 100%;
+}
+
+.Drink-link {
+  color: hotpink;
+  text-align: center;
+  text-decoration: none;
+}

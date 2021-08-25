@@ -1,0 +1,10 @@
+.Chips {
+  height: 90vh;
+  width: 100%;
+}
+
+.Chips-link {
+  color: hotpink;
+  text-align: center;
+  text-decoration: none;
+}

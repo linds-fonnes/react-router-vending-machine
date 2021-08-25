@@ -1,0 +1,10 @@
+.Nuggets {
+  height: 90vh;
+  width: 100%;
+}
+
+.Nuggets-link {
+  color: hotpink;
+  text-align: center;
+  text-decoration: none;
+}

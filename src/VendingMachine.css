@@ -1,0 +1,23 @@
+.VendingMachine-bg {
+  background-image: url("https://tglvending.com/wp-content/uploads/2020/06/header-vending-mobile.jpg");
+  background-color: #cccccc;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.VendingMachine-container {
+  text-align: center;
+  background-color: blueviolet;
+  opacity: 0.8;
+  width: 30%;
+  height: 40%;
+  margin: 2rem;
+}
+
+.VendingMachine-container p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000000;
+}
